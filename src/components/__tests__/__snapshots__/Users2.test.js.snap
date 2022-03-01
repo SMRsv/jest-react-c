@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches Snapshot 1`] = `
+<div
+  data-testid="user-1"
+>
+  <h2
+    style={
+      Object {
+        "color": "orange",
+      }
+    }
+  >
+    John
+  </h2>
+</div>
+`;
